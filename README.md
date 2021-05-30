@@ -1,2 +1,0 @@
-# vd
-Video downloader
